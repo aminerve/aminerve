@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **The Travel App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking to collaborate on **Mern Stack Application and Fully Functional Websites**
 
